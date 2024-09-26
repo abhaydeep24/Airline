@@ -1,0 +1,9 @@
+_______________________SINGH AIRLINES____________________
+   _______________________Tickets____________________
+       ___________________________________________
+Customer ID :2
+Customer Name :Abhaydeep
+Customer Gender :male
+	 Discription:
+Destination		Dubai
+Flight cost :		14000
